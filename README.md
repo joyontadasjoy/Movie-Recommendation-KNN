@@ -5,10 +5,9 @@
   <body>
     <h1>Simple Movie Recommendation System using KNN</h1>
     <p>This Jupyter Notebook demonstrates a simple movie recommendation system using the K-Nearest Neighbors algorithm. The dataset used in this project contains information about movies and their ratings, which will be used to predict similar movies that a user might be interested in watching.</p>
-css
-Copy code
-<h2>Importing Required Libraries and Dataset</h2>
-<p>The necessary libraries such as Pandas, NumPy, Matplotlib, Seaborn and warnings are imported in the first few lines of code. Two datasets, namely 'movies.txt' and 'rating.txt', are imported using the Pandas library.</p>
+
+<h2>Importing Required Dataset</h2>
+<p> Two datasets, namely 'movies.txt' and 'rating.txt', are imported using the Pandas library.</p>
 
 <h2>Data Cleaning and Preparation</h2>
 <p>The two datasets are merged based on the 'movieId' column, and unnecessary columns such as 'timestamp' and 'genres' are dropped. The resulting dataframe is then checked for any null values.</p>
