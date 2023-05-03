@@ -13,7 +13,7 @@
       <li>Seaborn</li>
     </ul>
 
-    <h2>Disclaimer</h2>
+  <h2>Disclaimer</h2>
     <p>This recommendation system is a proof-of-concept project and should not be used as a substitute for professional advice. The system makes recommendations based on the input data, and the results may not be accurate or suitable for all users. Use this system at your own risk.</p>
     <h2>References</h2>
     <ul>
